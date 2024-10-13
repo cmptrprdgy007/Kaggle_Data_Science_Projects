@@ -15,7 +15,7 @@ Welcome to my collection of Kaggle projects! This repository showcases my work i
 ### 1. Customer Churn Analysis
 - 📝 Description: This project analyzes customer data to predict churn rates using machine learning algorithms. The analysis helps identify key factors contributing to customer retention.
 - 🛠️ Techniques Used: Logistic Regression, Decision Trees, Feature Engineering.
-- 🔗 Link: [View Project on Kaggle](https://www.kaggle.com/yourusername/customer-churn-analysis)
+- 🔗 Link: [View Project on Kaggle](https://www.kaggle.com/akshaymbhat/customer-churn-analysis)
 
 ---
 
